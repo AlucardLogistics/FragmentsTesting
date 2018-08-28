@@ -20,4 +20,8 @@ public class MainActivity extends AppCompatActivity implements MyInterface {
 
 
     }
+
+    private void gitMethod() {
+        int i = 1 + 2;
+    }
 }
